@@ -10,6 +10,9 @@
         "vite": "^4.0.0"
     },
     "dependencies": {
-        "jquery": "^3.6.4"
+        "@vitejs/plugin-vue": "^4.1.0",
+        "jquery": "^3.6.4",
+        "vue": "^3.2.36",
+        "vue-loader": "^17.0.1"
     }
 }
